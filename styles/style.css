@@ -90,7 +90,7 @@ main {
     flex-direction: column;
     text-transform: uppercase;
     padding-top: 165px;
-    margin: 0 50px;
+    padding-inline: 50px;
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
